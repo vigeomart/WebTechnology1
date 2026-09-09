@@ -1,0 +1,11 @@
+.tablazat{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    justify-content: space-evenly;
+}
+
+.sor{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
